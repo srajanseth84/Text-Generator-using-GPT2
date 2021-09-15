@@ -9,18 +9,18 @@
 **Pre-Trained on :** **`English language using a causal language modeling (CLM)`**
 
 
-## [To View Deployed Demo on Streamlit](https://share.streamlit.io/srajanseth84/all-ml-projects-streamlit/main/app.py)
+## [View Deployed Demo on Streamlit](https://share.streamlit.io/srajanseth84/all-ml-projects-streamlit/main/app.py)
 - Just open above link and select Text Generator
 
 
 ## Demo
------
+
 
 ![](extras/demo.gif.gif)
 
 
 ### A Few Examples
--------------------
+
 * The beautiful ruins of the ancient city of Persepolis (Iran) with the style of Van Gogh (The Starry Night) 
   <img src="images/">
 * The tomb of Cyrus the great in Pasargadae with the style of a Ceramic Kashi from Ispahan 
@@ -31,7 +31,7 @@
 
 
 ## Run Locally
-------
+
 
 * Clone the project
 
@@ -71,11 +71,16 @@
 
 
 ## Dependencies
-----
+
 * [Tensorflow](https://github.com/tensorflow/tensorflow)
 * [Hugging Face 🤗](https://huggingface.co/)
 * [Streamlit](https://github.com/streamlit/streamlit)
 * [GPT-2](https://huggingface.co/gpt2)  
+
+## Tech Stack
+* **Front-End**: [Streamlit](https://github.com/streamlit/streamlit)
+* **Cloud**: [Streamlit Cloud](https://streamlit.io/cloud)
+* **DL-Framework**: [Hugging Face](https://huggingface.co/)
 
 
 

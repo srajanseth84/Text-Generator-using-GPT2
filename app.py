@@ -16,7 +16,7 @@ def generate_text(gererator, raw_text, max_length, num_return_sequences):
 
 
 st.title("Text Generation 📜")
-st.write('**Finding Words? Use TEXT GENERATOR😉**\n')
+st.write('**Looking for Words? Use TEXT GENERATOR😉**\n')
 st.write(
     "To know more about this app, visit [**GitHub**](https://github.com/srajanseth84/Text-Generator-using-GPT2)")
 

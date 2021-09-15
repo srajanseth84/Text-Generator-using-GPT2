@@ -59,7 +59,7 @@ try:
 except:
     st.warning("Some **Unexpected** Error happen")
     st.warning(
-        "Please create a **Issue** on [Github](https://github.com/srajanseth84/Sentiment-Classification)")
+        "Please create a **Issue** on [Github](https://github.com/srajanseth84/Text-Generator-using-GPT2)")
 
 st.markdown("Created by **Srajan Seth**")
 st.markdown(body="""

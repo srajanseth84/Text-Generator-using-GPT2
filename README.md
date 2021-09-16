@@ -8,27 +8,12 @@
 
 **Pre-Trained on :** **`English language using a causal language modeling (CLM)`**
 
-
 ## [View Deployed Demo on Streamlit](https://share.streamlit.io/srajanseth84/all-ml-projects-streamlit/main/app.py)
 - Just open above link and select Text Generator
 
-
 ## Demo
 
-
-![](extras/demo.gif.gif)
-
-
-### A Few Examples
-
-* The beautiful ruins of the ancient city of Persepolis (Iran) with the style of Van Gogh (The Starry Night) 
-  <img src="images/">
-* The tomb of Cyrus the great in Pasargadae with the style of a Ceramic Kashi from Ispahan 
-  <img src="images/">
-* A scientific study of a turbulent fluid with the style of a abstract blue fluid painting
-  <img src = "images/">
-
-
+![](extras/text.gif)
 
 ## Run Locally
 
@@ -76,8 +61,6 @@
 
 - This way, the model learns an inner representation of the English language that can then be used to extract features useful for downstream tasks. The model is best at what it was pretrained for however, which is generating texts from a prompt.
 
-
-
 ## Dependencies
 
 * [Tensorflow](https://github.com/tensorflow/tensorflow)
@@ -89,9 +72,6 @@
 * **Front-End**: [Streamlit](https://github.com/streamlit/streamlit)
 * **Cloud**: [Streamlit Cloud](https://streamlit.io/cloud)
 * **DL-Framework**: [Hugging Face](https://huggingface.co/)
-
-
-
 
 ## Reference
 
